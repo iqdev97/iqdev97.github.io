@@ -2,13 +2,13 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-1047790124869633/1350788344",
       "main_ads_intertitial":"ca-app-pub-1047790124869633/9217670070",
       "native_for_admob":"ca-app-pub-1047790124869633/9005917082",
       "backup_ads_banner":"qwerty123",
       "backup_ads_intertitial":"0f590aad7ca062cd",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "mesothelioma",
